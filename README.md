@@ -5,6 +5,7 @@
 ## Languages and Tools I use
 
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-524520?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/documentation/swiftui)
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![Xcode Instruments](https://img.shields.io/badge/Xcode_Instruments-1575F9?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/features/instruments/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
