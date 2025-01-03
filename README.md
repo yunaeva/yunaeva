@@ -1,6 +1,6 @@
 ### About Me 
 
-- My name is Safiya Yunaeva and I am an iOS/visionOS Developer .
+- My name is Safiya Yunaeva and I am an iOS/MacOS Developer .
 
 ## Languages and Tools I use
 
